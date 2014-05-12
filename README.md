@@ -23,10 +23,10 @@ We claim that API Network can provide a platform for developers to easily access
 ## Technical Assumptions
 
 Our claims are built on the following technical assumptions of technologies the API Network Protocol relies on for implimentation:
-1. The Bitcoin Network can be used as a cryptographic ledger for the secure transfer of value and recording of records.
-2. The Master Protocol can provide the issuance of digital tokens on top of the Bitcoin cryptographic ledger.
-3. The Safe Network can provide secure decentralized storage of data for the caching of API information.
-4. API Network Protocol can leverage digital marketplace tools such as decentralized escrow, reputation, identity, and arbitration to operate an efficent Federated marketplace for pulbic APIs.
+* 1. The Bitcoin Network can be used as a cryptographic ledger for the secure transfer of value and recording of records.
+* 2. The Master Protocol can provide the issuance of digital tokens on top of the Bitcoin cryptographic ledger.
+* 3. The Safe Network can provide secure decentralized storage of data for the caching of API information.
+* 4. API Network Protocol can leverage digital marketplace tools such as decentralized escrow, reputation, identity, and arbitration to operate an efficent Federated marketplace for pulbic APIs.
 
 ## Visualization of the APIcoin Token Tech Stack
 
