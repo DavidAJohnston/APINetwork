@@ -30,7 +30,7 @@ Our claims are built on the following technical assumptions of technologies the 
 
 ## Visualization of the APIcoin Token Tech Stack
 
-The proposed protocol layers of Bitcoin, Master Protocol and the API Network can be visualized as follows, with arrows representing users exchanging between currencies:
+The proposed protocol layers of Bitcoin, Master Protocol, and the API Network can be visualized as follows, with arrows representing users exchanging between currencies:
 
 ![Mastercoin Protocol Layers](https://raw.github.com/mastercoin-MSC/spec/master/images/layers.png) 
 
