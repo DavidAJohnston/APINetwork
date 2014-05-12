@@ -43,7 +43,7 @@ This version seeks to describe the features that will be implimented after the A
 
 ## Features of the API Network
 
-# 1. Private API Marketplace: A node may join the API Network and publish a private API that it wants to provide calls for. The node will accept and price the calls to its API in API Tokens. This will establish a market place with nodes providing a variety of API calls. The use of the SAFE Network for publishing data and that data's access will generate SAFE coins at the Bitcoin address provided by the API publisher.
+1. Private API Marketplace: A node may join the API Network and publish a private API that it wants to provide calls for. The node will accept and price the calls to its API in API Tokens. This will establish a market place with nodes providing a variety of API calls. The use of the SAFE Network for publishing data and that data's access will generate SAFE coins at the Bitcoin address provided by the API publisher.
 
 2. Storage of Cached API Data: The API Network will use SAFE Network in the backend to store the cached API data for users. This will be accomplished through the conversion of API Tokens to SAFE coins to purchase storage space for the user. 
 
