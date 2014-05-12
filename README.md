@@ -8,6 +8,7 @@ API Network Protocol
 Version 0.1 (Whitepaper Proposal Edition)
 
 Curtis Lacy https://github.com/curtislacy
+
 David Johnston https://github.com/DavidJohnstonCEO
 
 ## Summary
