@@ -15,18 +15,18 @@ David Johnston https://github.com/DavidJohnstonCEO
 
 We claim that API Network can provide a platform for developers to easily access APIs + IMAP.
 
-* Will provide access to a wide variety of both private and public API's.
-* Will provide access to IMAP, Exchange, data normalization and natural language processing services in a federated manor.
-* Will aquire initial backing as part of crowdsale to incentizive developers to build software which implements the API Network Protocol, and incentivize nodes to provide hosting of the API Network service.
-* The API Network will operate using the "API token" to access its service.
+* A. Will provide access to a wide variety of both private and public API's.
+* B. Will provide access to IMAP, Exchange, data normalization and natural language processing services in a federated manor.
+* C. Will aquire initial backing as part of crowdsale to incentizive developers to build software which implements the API Network Protocol, and incentivize nodes to provide hosting of the API Network service.
+* D. The API Network will operate using the "API token" to access its service.
 
 ## Technical Assumptions
 
 Our claims are built on the following technical assumptions of technologies the API Network Protocol relies on for implimentation:
-* 1. The Bitcoin Network can be used as a cryptographic ledger for the secure transfer of value and recording of records.
-* 2. The Master Protocol can provide the issuance of digital tokens on top of the Bitcoin cryptographic ledger.
-* 3. The Safe Network can provide secure decentralized storage of data for the caching of API information.
-* 4. API Network Protocol can leverage digital marketplace tools such as decentralized escrow, reputation, identity, and arbitration to operate an efficent Federated marketplace for pulbic APIs.
+* A. The Bitcoin Network can be used as a cryptographic ledger for the secure transfer of value and recording of records.
+* B. The Master Protocol can provide the issuance of digital tokens on top of the Bitcoin cryptographic ledger.
+* C. The Safe Network can provide secure decentralized storage of data for the caching of API information.
+* D. API Network Protocol can leverage digital marketplace tools such as decentralized escrow, reputation, identity, and arbitration to operate an efficent Federated marketplace for pulbic APIs.
 
 ## Visualization of the APIcoin Token Tech Stack
 
