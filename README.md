@@ -16,7 +16,7 @@ David Johnston https://github.com/DavidJohnstonCEO
 We claim that API Network can provide a platform for developers to easily access APIs + IMAP.
 
 * Will provide access to a wide variety of both private and public API's.
-* Will provide access to IMAP, Exchange, Data Normalization and Natural Language Processing services in a Federated manor.
+* Will provide access to IMAP, Exchange, data normalization and natural language processing services in a federated manor.
 * Will aquire initial backing as part of crowdsale to incentizive developers to build software which implements the API Network Protocol, and incentivize nodes to provide hosting of the API Network service.
 * The API Network will operate using the "API token" to access its service.
 
