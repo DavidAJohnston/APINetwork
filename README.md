@@ -38,7 +38,7 @@ Note that all transfers of value using the Master Protocol are still stored in t
 
 # Document History
 
-1. Version 0.1
+* Version 0.1
 This version seeks to describe the features that will be implimented after the API Network crowdsale.
 
 ## Features of the API Network
