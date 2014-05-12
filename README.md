@@ -5,7 +5,7 @@ API Network Protocol
 
 =================================
 
-vs0.1 (Whitepaper Proposal Edition)
+Version 0.1 (Whitepaper Proposal Edition)
 
 Curtis Lacy https://github.com/curtislacy
 David Johnston https://github.com/DavidJohnstonCEO
