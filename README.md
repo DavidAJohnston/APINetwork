@@ -13,19 +13,22 @@ David Johnston https://github.com/DavidJohnstonCEO
 
 ## Summary
 
-We claim that API Network can provide a platform for developers to easily access APIs + IMAP.
+We claim that API Network will 
 
-* A. Will provide access to a wide variety of both private and public API's.
-* B. Will provide access to IMAP, Exchange, data normalization and natural language processing services in a federated manor.
-* C. Will aquire initial backing as part of crowdsale to incentizive developers to build software which implements the API Network Protocol, and incentivize nodes to provide hosting of the API Network service.
-* D. The API Network will operate using the "API token" to access its service.
+* A. provide a platform for developers to easily access multiple APIs + IMAP.
+* B. provide access to a wide variety of both private and public API's.
+* c. provide access data normalization and natural language processing services in a federated manner for data that is technically easy to host and index, such as IMAP and Exchange information 
+* D. aquire initial backing as part of crowdsale to incentizive developers to build the API Network Protocol's software.
+* E. operate using the "APICoin" to grant access its service.
+* F. compensate and incentivize nodes that are providing the API Network service in "APICoins"
 
 ## Technical Assumptions
 
 Our claims are built on the following technical assumptions of technologies the API Network Protocol relies on for implimentation:
-* A. The Bitcoin Network can be used as a cryptographic ledger for the secure transfer of value and recording of records.
-* B. The Master Protocol can provide the issuance of digital tokens on top of the Bitcoin cryptographic ledger.
+* A. The Bitcoin Network can be used as a cryptographic ledger for the secure transfer of value and recording.
+* B. The Master Protocol can provide the issuance of digital and unique tokens on top of the Bitcoin cryptographic ledger.
 * C. The Safe Network can provide secure decentralized storage of data for the caching of API information.
+* D. API Network Protocol can host and manage Bitcoin wallets in an automated manner as indicated by users.
 * D. API Network Protocol can leverage digital marketplace tools such as decentralized escrow, reputation, identity, and arbitration to operate an efficent Federated marketplace for pulbic APIs.
 
 ## Visualization of the APIcoin Token Tech Stack
@@ -34,7 +37,7 @@ The proposed protocol layers of Bitcoin, Master Protocol, and the API Network ca
 
 ![Mastercoin Protocol Layers](https://raw.github.com/mastercoin-MSC/spec/master/images/layers.png) 
 
-Note that all transfers of value using the Master Protocol are still stored in the normal bitcoin block chain, but higher layers of the protocol assign additional meaning to some transactions.
+Note that all transfers of value using the Master Protocol are still stored in the normal bitcoin block chain, but the protocol assigns, stores and interprates additional meaning to some transactions utilizing the feature of embedded metadata. See Master Protocol for more additional information on user issued currencies and hosting crowdsales.
 
 # Document History
 
@@ -43,19 +46,21 @@ This version seeks to describe the features that will be implimented after the A
 
 ## Features of the API Network
 
-1. Private API Marketplace: A node may join the API Network and publish a private API that it wants to provide calls for. The node will accept and price the calls to its API in API Tokens. This will establish a market place with nodes providing a variety of API calls. The use of the SAFE Network for publishing data and that data's access will generate SAFE coins at the Bitcoin address provided by the API publisher.
+1. Private API Marketplace: A node may join the API Network and publish a private API that it will provide calls for. The node will accept and price the calls to its API in API Tokens. This will establish a link between the value of the service and that of the tokens. While the demand for the service will reflect in the demand for the token, the market place of nodes opertaing to perform a variety of API calls will be competing with each other thus rendering the service cheaper to perform. The competing supply and the competing demand will give rise to the dynamic emergent market place.
 
-2. Storage of Cached API Data: The API Network will use SAFE Network in the backend to store the cached API data for users. This will be accomplished through the conversion of API Tokens to SAFE coins to purchase storage space for the user. 
+2. The use of the SAFE Network: When the API Publisher stores information on the SAFE Network, the SAFE protocol will issue tokens to the Bitcoin address provided by the API publisher, to enable sustained storage and recall.
 
-3. API Billing Module: The API Network will require sending of API tokens to the API before the API services are provided, and the system will use AnArk.it for the escrow and holding of the API tokens for its billing module. That way the handling of the API tokens can be done in a completely decentralized way where neither the user nor the API publisher can access the API tokens until such time as the promised action is preformed to the satisfaction of both parties.
+3. Storage of Cached API Data: The API Network will use SAFE Network in the back-end to store the cached API data for users. This will be accomplished through the conversion of API Tokens to SAFE coins to purchase storage space for the user in the decentralized exchange.
 
-4. Data Normalization: The API Network contains libraries and tools for the normalizatin of data. This tool set is open source and available to all users of the API Network system and will be maintined as part of the core implimentation of the API Network Protocol. 
+4. API Billing Module: The API Network will require sending of API tokens before the API services are provided, and the system will use AnArk.it for the escrow and holding of the API tokens for its billing module. That way the handling of the API tokens can be done in a completely decentralized manner where neither the user nor the API publisher will be able to access the API tokens until the promised action is preformed to the satisfaction of both parties.
 
-5. IMAP Intergration: The API Network contains libraries and tools for the intergration of IMAP email systems. This tool set is open source and available to all users of the API Network system and will be maintined as part of the core implimentation of the API Network Protocol. 
+5. Data Normalization: The API Network contains libraries and tools for the normalizatin of data. This tool set is open-source, available to all users of the API Network system, and will be maintined as part of the core implimentation of the API Network Protocol. 
 
-6. Exchange Intergration: The API Network contains libraries and tools for the intergration of exchange email systems. This tool set is open source and available to all users of the API Network system and will be maintined as part of the core implimentation of the API Network Protocol. 
+6. IMAP Intergration: The API Network contains libraries and tools for the intergration of IMAP email systems. This tool set is open-source and available to all users of the API Network system and will be maintined as part of the core implimentation of the API Network Protocol. 
 
-7. Single Developer Interface: The API Network contains libraries and tools for developers to interact with multiple API's through a single interface. This tool set is open source and available to all users of the API Network system and will be maintined as part of the core implimentation of the API Network Protocol.
+6. Exchange Intergration: The API Network contains libraries and tools for the intergration of exchange email systems. This tool set is open-source and available to all users of the API Network system and will be maintined as part of the core implimentation of the API Network Protocol. 
+
+7. Single Developer Interface: The API Network contains libraries and tools for developers to interact with multiple API's through a single interface. This tool set is open-source and available to all users of the API Network system and will be maintined as part of the core implimentation of the API Network Protocol.
 
 8. Natural Language Processing Tools:  The API Network contains libraries and tools for the processing and indexing of natural language. This tool set is open source and available to all users of the API Network system and will be maintined as part of the core implimentation of the API Network Protocol.
 
@@ -63,32 +68,32 @@ This version seeks to describe the features that will be implimented after the A
 
 ## Operating on Top of the Mastercoin Design
 
-The “Master Protocol" layer exists between the existing bitcoin protocol and users’ currencies. The software implementing the Master Protocol contains simple tools which will allow anyone to design and release their own currency with their own rules without doing any software development.
+The “Master Protocol" layer exists between the existing bitcoin protocol and user-issued currencies. The software implementing the Master Protocol contains simple tools which allows anyone to design and release their own currency with their own rules without doing any software development.
 
-## The “API Token Generation”
+## The “APICoin Generation”
 
-The API Network uses the Mastercoin Protocol to create a user currency identifer. These tokens will be generated by the participants in the "API Address", a Bitcoin address starting June 15th 2014.
+The API Network uses the Master Protocol to create a user currency identifer. These tokens are generated by the participants in the "API Address", a Bitcoin address starting June 15th 2014. The generation will continue until the end of the 'crowdsale' event until the target amount of funding is committed or the ending date is reached.
 
-Initial distribution of API Tokens will essentially be a effort to incentivize for developers to write the software which fully implements the protocol. The distribution is very simple, and will proceed as follows:
+Initial distribution of APICoins will essentially be a effort to incentivize developers to write the software which fully implements the protocol. The issuance of tokens will proceed as the following simple steps:
 
-1. Anyone sending bitcoins to the "API Address" before July 15th, 2014 is recognized by the protocol as owning 100x that number of API Tokens. For instance, if the user sends 100 bitcoins to the "API Address" before July 15th, their bitcoin address owns 10,000 APIcoins after July 15th. 
-2. Early buyers get additional API Tokens. In order to encourage adoption momentum, buyers will get an additional 10% bonus API Tokens if they make their purchase a week before the deadline, 20% extra if they purchase two weeks early, and so on, including partial weeks. Thus, if I send 100 bitcoins to the "API Address" 1.5 weeks before the 15th of July 2014, the protocol recognizes my bitcoin address as owning 11,500 API Tokens (10000 + 15% bonus).
-3. Attempts to send funds to the API "Address" on or after midnight (central time) July 15st 2014 (as determined by bitcoin block chain records) will not be considered API Tokens purchases and shall be sent back.
+1. Anyone sending bitcoins to the "API Address" before July 15th, 2014 is recognized by the protocol as owning 100x that number of APICoins. For instance, if the user sends 100 bitcoins to the "API Address" before July 15th, their bitcoin address owns 10,000 APIcoins after July 15th. 
+2. In order to encourage adoption momentum, buyers will get an additional 10% bonus APICoinss if they make their purchase a week before the deadline, 20% extra if they purchase two weeks weeks before, and so on, including partial weeks, prorating the total purchase accordingly. Thus, if I send 100 bitcoins to the "API Address" 1.5 weeks before the 15th of July 2014, the protocol recognizes my bitcoin address as owning 11,500 APICoinss (10000 + 15% bonus).
+3. Attempts to send funds to the API "Address" on or after midnight (central time) July 15st 2014 (as determined by bitcoin block chain records) will not be considered APICoins purchases and shall be sent back to the originating Bitcoin wallets in the form of Bitcoin minus transaction fees.
 
-In the event that a purchase has multiple inputs, the input address contributing the most funds is recognized as owning the API Tokens.
+In the event that a purchase has multiple inputs, the input address contributing the most funds is recognized as owning the APICoins.
 
-Note that anyone who purchases API Tokens also receive the ability to test new features before they are available for use in the API Network Protocol.
+Note that anyone who purchases APICoins also receive the ability to test new features before they are available for use in the API Network Protocol.
 
 
-## Developer API Tokens (Dev Tokens)
+## Developer APICoins (Dev Tokens)
 
-For every 4 API Token sold, an additional “Developer API Tokens” will also be created, which will be awarded to the API Address slowly over the following years. These delayed API Tokens will ensure that the community can incentivize developers to increase the value of API Token by completing the features desired by users. The reward will be structured so that the distributed bounty system receive 50% of the Dev API Tokens by one year after the initial sale, 75% by a year later, 87.5% by a year later, and so on:
+For every 4 APICoin sold, an additional “Developer APICoins” will also be created, which will be awarded to the API Address slowly over the following years. These delayed API Tokens will ensure that the community can incentivize developers to increase the value of API Token by completing the features desired by users. The reward will be structured so that the distributed bounty system receives the tokens on a logarithmic scale: 50% of all the Dev API Tokens by one year after the initial sale, 75% by a year later, 87.5% by the year after, and so on.
 
-SAFE coins generated by the use of API's published on the API Network will be sent to the API Network developer pool purchase API coins on the Decentralized Exchange and hold them for release to contributors to the API Network open source code.
+SAFE coins generated by the use of API's published on the API Network will be sent to the API Network developer pool purchase APICoins on the Decentralized Exchange and hold them for release to contributors to the API Network open source code.
 
-## Transferring APIcoins
+## Transferring APICoins
 
-Say you want to transfer 1 API Token to another address. This is done through the Master Protocol client implimetations.
+The transfer of APICoins will is done through the Master Protocol client implimetations.
 
-Note that the amount to transfer is multiplied by 100,000,000 before it is stored, which allows for API Tokens to be sent with the same precision as bitcoins (eight decimal places).
+Note that the amount to transfer is accounted for in Lacys (hundred million Lacy's add up to make 1 APICoin) before it is stored, which allows for APICoins to be sent with the same precision as bitcoins (eight decimal places).
 
