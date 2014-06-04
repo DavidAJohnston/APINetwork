@@ -73,8 +73,11 @@ The “Master Protocol" layer exists between the existing bitcoin protocol and u
 ## Total Distribution of APIcoins
 
 Crowdsale APIcoins 200,000 (20%)
+
 Node Incentive APIcoins 200,000 (20%)
+
 Developer APIcoins 300,000 (30%)
+
 Open Sourcing APIcoins 300,000 (30%)
 
 Total APIcoins that will ever exist 1,000,000
