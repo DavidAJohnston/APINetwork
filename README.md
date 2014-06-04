@@ -17,7 +17,7 @@ We claim that API Network will
 
 * A. provide a platform for developers to easily access multiple APIs + IMAP.
 * B. provide access to a wide variety of both private and public API's.
-* c. provide access data normalization and natural language processing services in a federated manner for data that is technically easy to host and index, such as IMAP and Exchange information 
+* c. provide access to the private and public API's in a federated manner for data that is technically easy to host and index, such as IMAP and Exchange information. 
 * D. aquire initial backing as part of crowdsale to incentizive developers to build the API Network Protocol's software.
 * E. operate using the "APICoin" to grant access its service.
 * F. compensate and incentivize nodes that are providing the API Network service in "APICoins"
@@ -76,9 +76,11 @@ The API Network uses the Master Protocol to create a user currency identifer. Th
 
 Initial distribution of APICoins will essentially be a effort to incentivize developers to write the software which fully implements the protocol. The issuance of tokens will proceed as the following simple steps:
 
-1. Anyone sending bitcoins to the "API Address" before July 15th, 2014 is recognized by the protocol as owning 100x that number of APICoins. For instance, if the user sends 100 bitcoins to the "API Address" before July 15th, their bitcoin address owns 10,000 APIcoins after July 15th. 
-2. In order to encourage adoption momentum, buyers will get an additional 10% bonus APICoinss if they make their purchase a week before the deadline, 20% extra if they purchase two weeks weeks before, and so on, including partial weeks, prorating the total purchase accordingly. Thus, if I send 100 bitcoins to the "API Address" 1.5 weeks before the 15th of July 2014, the protocol recognizes my bitcoin address as owning 11,500 APICoinss (10000 + 15% bonus).
-3. Attempts to send funds to the API "Address" on or after midnight (central time) July 15st 2014 (as determined by bitcoin block chain records) will not be considered APICoins purchases and shall be sent back to the originating Bitcoin wallets in the form of Bitcoin minus transaction fees.
+1. A dutch style auction sale of APIcoins will begin June 11th and a total of 2,000 APIcoins will be sold each day for a 7 day period. The 2,000 APIcoins generated during each day will be distributed in proportion to the bitcoin addresses that sent the BTC. For instance, if a purchaser sent 10 bitcoins and the total bitcoins sent that day were 100 bitcoins than the purchaser would have 10% (200) of the 2,000 APIcoins sold that day.
+2. Starting on June 18th 2014, anyone sending bitcoins to the "API Address" before July 18th, 2014 is recognized by the protocol as owning 100x (price to be determined by the average price during the 7 dutch auction days) that number of APICoins. For instance, if the user sends 100 bitcoins to the "API Address" before July 18th, their bitcoin address owns 10,000 APIcoins after July 18th. 
+3. In order to encourage adoption momentum, buyers will get an additional 10% bonus APICoinss if they make their purchase a week before the deadline, 20% extra if they purchase two weeks weeks before, and so on, including partial weeks, prorating the total purchase accordingly. Thus, if I send 100 bitcoins to the "API Address" 1.5 weeks before the 18th of July 2014, the protocol recognizes my bitcoin address as owning 11,500 APICoinss (10000 + 15% bonus).
+4. Attempts to send funds to the API "Address" on or after midnight (central time) July 18th 2014 (as determined by bitcoin block chain records) will not be considered APICoins purchases and shall be sent back to the originating Bitcoin wallets in the form of Bitcoin minus transaction fees.
+5. The total number of APIcoins generated during the crowdsale shall be limited to 200,000 any APIcoins generated after this point shall be invalid and the bitcoin sent for their generate returned to the sender.
 
 In the event that a purchase has multiple inputs, the input address contributing the most funds is recognized as owning the APICoins.
 
