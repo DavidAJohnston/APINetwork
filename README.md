@@ -11,6 +11,12 @@ Curtis Lacy https://github.com/curtislacy
 
 David Johnston https://github.com/DavidJohnstonCEO
 
+Sam Yilmaz https://github.com/Onat
+
+## Introduction
+
+
+
 ## Summary
 
 We claim that API Network will 
@@ -72,17 +78,17 @@ The “Master Protocol" layer exists between the existing bitcoin protocol and u
 
 ## Total Distribution of APIcoins
 
-XBT (BTC) Crowdsale 150,000 APCs (15%)
+XBT (BTC) Crowdsale 150,000 XAPs (15%)
 
-XMC (MSC) Crowdsale 50,000 APCs (5%)
+XMC (MSC) Crowdsale 50,000 XAPs (5%)
 
-Node Incentive 100,000 APCs (10%)
+Node Incentive 100,000 XAPs (10%)
 
-Third Party Developers 200,000 APCs (20%)
+Third Party Developers 200,000 XAPs (20%)
 
-Core Developers 200,000 APCs (20%)
+Core Developers 200,000 XAPs (20%)
 
-Open Sourcing 300,000 APCs (30%)
+Open Sourcing 300,000 XAPs (30%)
 
 Total APIcoins that will ever exist 1,000,000
 
