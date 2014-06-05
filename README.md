@@ -72,13 +72,17 @@ The “Master Protocol" layer exists between the existing bitcoin protocol and u
 
 ## Total Distribution of APIcoins
 
-Crowdsale APIcoins 200,000 (20%)
+XBT (BTC) Crowdsale 150,000 APCs (15%)
 
-Node Incentive APIcoins 200,000 (20%)
+XMC (MSC) Crowdsale 50,000 APCs (5%)
 
-Developer APIcoins 300,000 (30%)
+Node Incentive 100,000 APCs (10%)
 
-Open Sourcing APIcoins 300,000 (30%)
+Third Party Developers 200,000 APCs (20%)
+
+Core Developers 200,000 APCs (20%)
+
+Open Sourcing 300,000 APCs (30%)
 
 Total APIcoins that will ever exist 1,000,000
 
@@ -89,10 +93,17 @@ The API Network uses the Master Protocol to create a user currency identifer. Th
 Initial distribution of APICoins will essentially be a effort to incentivize developers to write the software which fully implements the protocol. The issuance of tokens will proceed as the following simple steps:
 
 1. A dutch style auction sale of APIcoins will begin June 11th and a total of 20,000 APIcoins will be sold during a 24 hour process starting at 11 am central US time zone. The  APIcoins generated during each day will be distributed to the purchasers in proportion to the BTC sent. For instance, if a purchaser sent 10 bitcoins and the total bitcoins sent that day were 100 bitcoins than the purchaser would have 10% (2,000) of the 20,000 APIcoins sold that day.
-2. Starting on June 18th 2014, anyone sending bitcoins to the "API Address" before July 18th, 2014 is recognized by the protocol as owning X (multiple to be determined by the average price during the 7 dutch auction days) that number of APICoins.  
+
+2. Starting on June 18th 2014, anyone sending bitcoins to the "API Address" before July 18th, 2014 is recognized by the protocol as owning X (multiple to be determined by the average price during the dutch auction) that number of APICoins.  
+
 3. In order to encourage adoption momentum, buyers will get an additional 10% bonus APICoinss if they make their purchase a week before the deadline, 20% extra if they purchase two weeks weeks before, and so on, including partial weeks, prorating the total purchase accordingly. Thus, if I send 100 bitcoins to the "API Address" 1.5 weeks before the 18th of July 2014, the protocol recognizes my bitcoin address as owning 11,500 APICoinss (10000 + 15% bonus).
+
 4. Attempts to send funds to the API "Address" on or after midnight (central time) July 18th 2014 (as determined by bitcoin block chain records) will not be considered APICoins purchases and shall be sent back to the originating Bitcoin wallets in the form of Bitcoin minus transaction fees.
+
 5. The total number of APIcoins generated during the crowdsale shall be limited to 200,000 any APIcoins generated after this point shall be invalid and the bitcoin sent for their generate returned to the sender.
+
+6. Starting on July 18th 2014 (or sooner if the BTC crow, anyone sending bitcoins to the "API Address" before July 18th, 2014 is recognized by the protocol as owning X (multiple to be determined by the average price during the dutch auction) that number of APICoins. 
+
 
 In the event that a purchase has multiple inputs, the input address contributing the most funds is recognized as owning the APICoins.
 
