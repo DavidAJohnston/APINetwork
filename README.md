@@ -78,7 +78,7 @@ The “Master Protocol" layer exists between the existing bitcoin protocol and u
 
 ## Total Distribution of APIcoins
 
-XBT (BTC) Crowdsale 350,000 XAPs (35%) ($10 USD worth of BTC per XAP)
+XBT (BTC) Crowdsale 350,000 XAPs (35%) 5,833 XBT (BTC) will be the maximum collected at a 60 XAP per XBT (BTC)
 
 Third Party Developers 200,000 XAPs (20%)
 
@@ -96,7 +96,7 @@ The API Network uses the Master Protocol to create a user currency identifer. Th
 
 Initial distribution of APICoins will essentially be a effort to incentivize developers to write the software which fully implements the protocol. The issuance of tokens will proceed as the following simple steps:
 
-1. A dutch style auction sale of APIcoins will begin June 11th and a total of 20,000 APIcoins will be sold during a 24 hour process starting at 11 am central US time zone. The  APIcoins generated during each day will be distributed to the purchasers in proportion to the BTC sent. For instance, if a purchaser sent 10 bitcoins and the total bitcoins sent that day were 100 bitcoins than the purchaser would have 10% (2,000) of the 20,000 APIcoins sold that day.
+1. A pre-sale of APIcoins will begin June 11th and a total of 20,000 APIcoins will be sold during a 24 hour process starting at 11 am central US time zone. The  APIcoins generated during each day will be distributed to the purchasers in proportion to the BTC sent. For instance, if a purchaser sent 10 bitcoins and the total bitcoins sent that day were 100 bitcoins than the purchaser would have 10% (2,000) of the 20,000 APIcoins sold that day.
 
 2. Starting on June 18th 2014, anyone sending bitcoins to the "API Address" before July 18th, 2014 is recognized by the protocol as owning X (multiple to be determined by the average price during the dutch auction) that number of APICoins.  
 
