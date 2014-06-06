@@ -78,17 +78,15 @@ The “Master Protocol" layer exists between the existing bitcoin protocol and u
 
 ## Total Distribution of APIcoins
 
-XBT (BTC) Crowdsale 262,500 XAPs (26.25%)
-
-XMC (MSC) Crowdsale 87,500 XAPs (8.75%)
-
-Node Incentive 100,000 XAPs (10%)
+XBT (BTC) Crowdsale 350,000 XAPs (35%) ($10 USD worth of BTC per XAP)
 
 Third Party Developers 200,000 XAPs (20%)
 
 Core Developers 200,000 XAPs (20%)
 
 Open Sourcing 150,000 XAPs (15%)
+
+Node Incentive 100,000 XAPs (10%)
 
 Total APIcoins that will ever exist 1,000,000
 
