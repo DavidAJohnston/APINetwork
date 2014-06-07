@@ -90,7 +90,7 @@ Node Incentive 1,000,000 XAPs (10%)
 
 Total APIcoins that will ever exist 10,000,000
 
-See details on the following Google Spread Sheet: https://docs.google.com/a/dappsfund.com/spreadsheets/d/1pEBjaOKdqNnAq9IPJMiGNgu7WriZjLKHjqKLgcDOawE/edit?usp=sharing
+See details on the following Google Spread Sheet: https://docs.google.com/a/dappsfund.com/spreadsheets/d/19miZjNsgtF21Qg-4IaDE3usE3mZRkhkPz7P4ous6yZ8/edit?usp=sharing
 
 ## The Crowdsale “APICoin Generation”
 
