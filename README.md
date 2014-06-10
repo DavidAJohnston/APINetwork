@@ -78,14 +78,13 @@ The “Master Protocol" layer exists between the existing bitcoin protocol and u
 
 ## Total Distribution of APIcoins
 
-XBT (BTC) Crowdsale 3,600,000 XAPs (36%) will be the maximum generated
-
+XBT (BTC) Crowdsale 3,000,000 XAPs (30%) will be the maximum generated
 
 Third Party Developers 2,000,000 XAPs (20%)
 
 Core Developers 2,000,000 XAPs (20%)
 
-Open Sourcing 1,400,000 XAPs (14%)
+Open Sourcing 2,000,000 XAPs (20%)
 
 Node Incentive 1,000,000 XAPs (10%)
 
