@@ -78,19 +78,14 @@ The “Master Protocol" layer exists between the existing bitcoin protocol and u
 
 ## Total Distribution of APIcoins
 
-XBT (BTC) Crowdsale 3,500,000 XAPs (35%) 3,500 XBT (BTC) will be the maximum collected at a 715 XAP per XBT (BTC)
-
+XBT (BTC) Crowdsale 3,600,000 XAPs (36%) will be the maximum generated
 Third Party Developers 2,000,000 XAPs (20%)
-
 Core Developers 2,000,000 XAPs (20%)
-
-Open Sourcing 1,500,000 XAPs (15%)
-
+Open Sourcing 1,400,000 XAPs (14%)
 Node Incentive 1,000,000 XAPs (10%)
-
 Total APIcoins that will ever exist 10,000,000
-
 See details on the following Google Spread Sheet: https://docs.google.com/a/dappsfund.com/spreadsheets/d/19miZjNsgtF21Qg-4IaDE3usE3mZRkhkPz7P4ous6yZ8/edit?usp=sharing
+
 
 ## The Crowdsale “APICoin Generation”
 
