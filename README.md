@@ -15,7 +15,7 @@ Sam Yilmaz https://github.com/Onat
 
 Faiz Khan https://github.com/faizkhan00
 
-Ian Stewart 
+Ian Stewart https://github.com/ianmstew
 
 ## Introduction
 The API Network project was born out a desire to make it easier for developer to connect to application programming interfaces (APIs). The team involved in the API Network has spent the last two years building out tools to make that process easier. The project has moved more and more toward open source until it became evident to be successful the project had to be 100% open source and incentives had to be built in with a crypto currency to reward developers who contribute their work and APIs to the network. The focus has since expanded to IMAP and related work to make this common source of data useful to most developers. 
