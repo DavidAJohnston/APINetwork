@@ -1,4 +1,4 @@
-API Network
+API Network Protocol and Whitepaper
 ==========
 
 API Network Protocol
