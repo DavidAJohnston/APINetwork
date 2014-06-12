@@ -1,11 +1,11 @@
 API Network Protocol and Whitepaper
 ==========
 
-API Network Protocol
+API Network Protocol Version 0.1 (Whitepaper Proposal Edition)
 
 =================================
 
-Version 0.1 (Whitepaper Proposal Edition)
+Contributors:
 
 Marv Schneider https://github.com/marvgmail
 
