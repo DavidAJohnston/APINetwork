@@ -7,21 +7,22 @@ API Network Protocol
 
 Version 0.1 (Whitepaper Proposal Edition)
 
-Curtis Lacy https://github.com/curtislacy
+Marv Schneider https://github.com/marvgmail
 
-David Johnston https://github.com/DavidJohnstonCEO
+Curtis Lacy https://github.com/curtislacy
 
 Sam Yilmaz https://github.com/Onat
 
+Faiz Khan https://github.com/faizkhan00
+
 Ian Stewart 
 
-Faiz Khan
-
-
-
 ## Introduction
+The API Network project was born out a desire to make it easier for developer to connect to application programming interfaces (APIs). The team involved in the API Network has spent the last two years building out tools to make that process easier. The project has moved more and more toward open source until it became evident to be successful the project had to be 100% open source and incentives had to be built in with a crypto currency to reward developers who contribute their work and APIs to the network. The focus has since expanded to IMAP and related work to make this common source of data useful to most developers. 
 
+So if you are a developer and want to easily access APIs and IMAP data? Join the API Network project. 
 
+The API / IMAP / OAuth 2 / Email Classifiction Open Source Project for Developers
 
 ## Summary
 
