@@ -166,7 +166,7 @@ Note that the amount to transfer is accounted for in Lacys (hundred million Lacy
 
 ## Use of the XBT (BTC) from the Crowdsale Event
 
-1. Buy the intellectual property and codebase to jump start the development of the API Network from Engine Inc. (website www.Engine.co) related to API and IMAP interfaces and then open source that code to the API community. Cost 800 XBT (BTC) and 2,000,000 API Coins (XAP) to be generated at the end of the crowdsale event.
+1. Buy the intellectual property and codebase to jump start the development of the API Network from Engine Inc. (website www.Engine.co) related to API and IMAP interfaces and then open source that code to the API community. Cost 900 XBT (BTC) and 2,000,000 API Coins (XAP) to be generated at the end of the crowdsale event.
 
 2. Buy additional intellectual property and codebase related to Exchange and other common data standards and open soure it the API community.
 
