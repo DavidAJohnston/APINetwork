@@ -18,23 +18,25 @@ Faiz Khan https://github.com/faizkhan00
 Ian Stewart https://github.com/ianmstew
 
 ## Introduction
-The market for API calls is enormous market, the number of API calls per day is astronomical. They power most of the Apps that you use on a daily basis, however they are still tough for developers to connect and maintain.The API Network project was born out a desire to make it easier for developers to connect to application programming interfaces (APIs). The team involved in the API Network has spent the last two years building out tools to make that process easier. The project has moved more and more toward open source until it became evident to be successful the project had to be 100% open source and incentives had to be built in with a crypto currency to reward developers who contribute their work and APIs to the network. The focus has since expanded to IMAP and related work to make this common source of data useful to most developers. 
+The market for API calls is enormous one, the number of API calls per day is astronomical. They power most of the Apps that you use on a daily basis, however they are still tough for developers to connect and maintain. The API Network project was born out a desire to make it easier for developers to connect to application programming interfaces (APIs). The team involved in the API Network has spent the last two years building out tools to make that process easier. The project has moved more and more toward open source until it became evident to be successful the project had to be 100% open source and incentives had to be built in with a crypto currency to reward developers who contribute their work and APIs to the network. The focus has since expanded to IMAP and related work to make this common source of data useful to most developers. 
 
 So if you are a developer and want to easily access APIs and IMAP data? Join the API Network project. The API / IMAP / OAuth 2 / Email Classifiction Open Source Project for Developers.
 
 ## The Problem
 There are three central issues with today's providers of API calls:
 
-1. Today, websites that provide a single interface for accessing multiple API's, there isn't any price competition for the API calls developers want to make and the central service takes a margin on top of its costs, so the price the developer (and his or her users) pay for convenience is a higher price per API call.
+1. Many of the most popular API's you can think of (Facebook, Twitter, Salesforce) have artificial limits on the number of API calls a developer can make to their system. This creates critical scaling issues and often breaks smaller applications that depend on these API calls when they reach these limits put in place by API providers.
 
-2. Singly.com as an example is a private centralized company, and so if it doesn't support the API you want, then its tough luck for you. Of course you can send in a request and maybe one day they will support it.
+2. Today, websites that provide a single interface for accessing multiple API's, there isn't any price competition for the API calls developers want to make and the central service takes a margin on top of its costs, so the price the developer (and his or her users) pay for convenience is a higher price per API call.
 
-3. Lastly because these services are not open source, you can't see the back end of how their code is handling the data from the API to you. So you have a much simpler interface with less function possible.
+3. Singly.com as an example is a private centralized company, and so if it doesn't support the API you want, then its tough luck for you. Of course you can send in a request and maybe one day they will support it.
+
+4. Lastly because these services are not open source, you can't see the back end of how their code is handling the data from the API to you. So you have a much simpler interface with less function possible.
 
 ## The Solution
 The ideal solution one would want is: 
 
-1. A marketplace where API providers compete on price.
+1. A marketplace where API providers compete on price and thus API providers can monetize their API as a service.
 
 2. An open standard so anyone can add additional APIs to the interface that people want support for.
 
