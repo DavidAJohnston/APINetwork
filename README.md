@@ -79,7 +79,7 @@ This version seeks to describe the features that will be implimented after the A
 
 9. Public API Marketplace: The API Network will provide a marketplace for public APIs (Gmail, Facebook, Twitter and so forth) to be accessed through a Federated Network of API hosting providers. This marketplace of public API's will provide access to reputation and identity systems (anark.it and onename.io for example) to allow users to pick the API call provider of their choice. The marketplace for public API's will leverage the API Network opensource data normalization, interface and natural language process tools. 
 
-## Operating on Top of the Mastercoin Design
+## Operating on Top of the Master Protocol
 
 The “Master Protocol" layer exists between the existing bitcoin protocol and user-issued currencies. The software implementing the Master Protocol contains simple tools which allows anyone to design and release their own currency with their own rules without doing any software development.
 
