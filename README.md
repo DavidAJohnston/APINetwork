@@ -140,3 +140,16 @@ The transfer of APICoins will is done through the Master Protocol client implime
 
 Note that the amount to transfer is accounted for in Lacys (hundred million Lacy's add up to make 1 APICoin) before it is stored, which allows for APICoins to be sent with the same precision as bitcoins (eight decimal places).
 
+## Use of the XBT (BTC) from the Crowdsale Event
+
+1. Buy the intellectual property and codebase to jump start the development of the API Network from Engine Inc. (website www.Engine.co) related to API and IMAP interfaces and then open source that code to the API community. Cost 800 XBT (BTC) and 2,000,000 API Coins (XAP) to be generated at the end of the crowdsale event.
+
+2. Buy additional intellectual property and codebase related to Exchange and other common data standards and open soure it the API community.
+
+3. Engage core developers to work full time to impliment the API Network protocol into a functional client.
+
+4. Engage community members in bounties and challenges build up the number and type of APIs available on the API Network.  
+
+
+
+
