@@ -18,11 +18,31 @@ Faiz Khan https://github.com/faizkhan00
 Ian Stewart https://github.com/ianmstew
 
 ## Introduction
-The API Network project was born out a desire to make it easier for developer to connect to application programming interfaces (APIs). The team involved in the API Network has spent the last two years building out tools to make that process easier. The project has moved more and more toward open source until it became evident to be successful the project had to be 100% open source and incentives had to be built in with a crypto currency to reward developers who contribute their work and APIs to the network. The focus has since expanded to IMAP and related work to make this common source of data useful to most developers. 
+The market for API calls is enormous market, the number of API calls per day is astronomical. They power most of the Apps that you use on a daily basis, however they are still tough for developers to connect and maintain.The API Network project was born out a desire to make it easier for developers to connect to application programming interfaces (APIs). The team involved in the API Network has spent the last two years building out tools to make that process easier. The project has moved more and more toward open source until it became evident to be successful the project had to be 100% open source and incentives had to be built in with a crypto currency to reward developers who contribute their work and APIs to the network. The focus has since expanded to IMAP and related work to make this common source of data useful to most developers. 
 
-So if you are a developer and want to easily access APIs and IMAP data? Join the API Network project. 
+So if you are a developer and want to easily access APIs and IMAP data? Join the API Network project. The API / IMAP / OAuth 2 / Email Classifiction Open Source Project for Developers.
 
-The API / IMAP / OAuth 2 / Email Classifiction Open Source Project for Developers
+## The Problem
+There are three central issues with today's providers of API calls:
+
+1. Today, websites that provide a single interface for accessing multiple API's, there isn't any price competition for the API calls developers want to make and the central service takes a margin on top of its costs, so the price the developer (and his or her users) pay for convenience is a higher price per API call.
+
+2. Singly.com as an example is a private centralized company, and so if it doesn't support the API you want, then its tough luck for you. Of course you can send in a request and maybe one day they will support it.
+
+3. Lastly because these services are not open source, you can't see the back end of how their code is handling the data from the API to you. So you have a much simpler interface with less function possible.
+
+## The Solution
+The ideal solution one would want is: 
+
+1. A marketplace where API providers compete on price.
+
+2. An open standard so anyone can add additional APIs to the interface that people want support for.
+
+3. An open source view into how all the data is handled so that you can customize it for your application if you need a more powerful solution.
+
+And once we build this open source marketplace for API's then we can build more powerful and less centralized versions of other services such as IFTTT https://ifttt.com/ and many other programs that provide value to end users by preforming tasks for them with API data in the back end.
+
+Now imagine creating a competitive market scripts / agents that preform just about any action on the internet that a user can then easier find and use. Thats the longterm vision here.
 
 ## Summary
 
@@ -32,8 +52,8 @@ We claim that API Network will
 * B. provide access to a wide variety of both private and public API's.
 * c. provide access to the private and public API's in a federated manner for data that is technically easy to host and index, such as IMAP and Exchange information. 
 * D. aquire initial backing as part of crowdsale to incentizive developers to build the API Network Protocol's software.
-* E. operate using the "APICoin" to grant access its service.
-* F. compensate and incentivize nodes that are providing the API Network service in "APICoins"
+* E. operate using the "APICoin (XAP)" to grant access its service.
+* F. compensate and incentivize nodes that are providing the API Network service in "APICoins (XAP)"
 
 ## Technical Assumptions
 
